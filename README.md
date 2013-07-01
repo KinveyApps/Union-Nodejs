@@ -9,7 +9,7 @@ After downloading or cloning the repository:
 
 * Make sure you have installed [Node.js](http://nodejs.org) and [npm](https://npmjs.org).
 * Run `npm install` to install the Kinvey node module.
-* Replace `<your-app-key>` and `<your-app-secret>` (lines 8–9 in `union.js`) with your application credentials.
+* Replace `App Key` and `App Secret` (`union.js`) with your application credentials. `Master Secret` is optional.
 * Run `node union.js`.
 * Point your browser to `http://localhost:1234`. Adjust the hostname if necessary.
 
