@@ -2,6 +2,6 @@
   "name"         : "Union-Nodejs",
   "version"      : "1.0.0",
   "dependencies" : {
-    "kinvey": "~1.0"
+    "kinvey": "~1.1"
   }
 }

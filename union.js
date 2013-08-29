@@ -23,7 +23,7 @@ var Kinvey = require('kinvey');
 Kinvey.init({
   appKey       : 'App Key',
   appSecret    : 'App Secret',
-  masterSecret : 'Master Secret (optional)'
+  masterSecret : 'Master Secret'
 });
 
 // Create the server.
